@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Questrial&display=swap');
+
+body{
+    background-color: #EEE0E5;
+}
+h1{
+    font-family: 'Questrial', sans-serif;
+    text-align: center;
+}
+h1{
+    padding: 35px;
+    font-size: 30px;
+}
+form{
+    margin-left: 190px;
+}
+#bott{
+    margin-left: 31%;
+}
+.btn{
+    color: black;
+    background: whitesmoke;
+    font-family: 'Questrial', sans-serif;
+    font-size: larger;
+    border-style: none;
+    margin-left: 25px;
+    margin-top: 5%;
+}
+.btn:hover{
+    background: #696969;
+}

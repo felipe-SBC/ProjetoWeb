@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Questrial&display=swap');
+
+body{
+    background-color: #EEE0E5;
+}
+h1,h2,p{
+    margin: auto;
+    margin-left: 25px;
+    font-family: 'Questrial', sans-serif;
+}
+h1{
+    text-align: center;
+    padding: 35px;
+    font-size: 60px;
+}
+p{
+    margin: auto;
+    margin-top: 40px;
+    margin-left: 25px;
+    font-size: larger;
+}
+#segp{
+    margin: auto;
+    margin-top: 20px;
+    margin-left: 25px;
+}
+#desc{
+    margin: auto;
+    color: #696969;
+    margin-left: 35px;
+}
+img{
+    margin: auto;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+#imgabertura{
+    margin-top: 60px;
+    margin-left: 300px;
+    margin-right: 50px;
+}
+.links{
+    margin-left: 300px;
+}
+.btn{
+    color: black;
+    background: whitesmoke;
+    font-family: 'Questrial', sans-serif;
+    font-size: larger;
+    border-style: none;
+    margin-left: 25px;
+    margin-top: 5%;
+}
+.btn:hover{
+    background: #696969;
+}
+#fonte{
+    text-align: center;
+    font-size: small;
+}
+#cad{
+    align-items: right;
+}
